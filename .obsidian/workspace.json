@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "c09856402f3c2b1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f701ff85e23c68cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad84ae91478811dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. The Grounds for Grounding/3.2 - Objectives of grounding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f80893bf65954c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "53552def05bade94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ff6599ef92480af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5bcdb1fd46ba007f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d0faba184ad085e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4d938ce12a925939",
+    "type": "split",
+    "children": [
+      {
+        "id": "476960be5984b612",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22f6fe750baf6ce4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. The Grounds for Grounding/3.2 - Objectives of grounding.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9722e5f2d82fe90c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. The Grounds for Grounding/3.2 - Objectives of grounding.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a74cead17d044b09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "28b8cbbbdbf8c6aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. The Grounds for Grounding/3.2 - Objectives of grounding.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ad84ae91478811dd",
+  "lastOpenFiles": [
+    "3. The Grounds for Grounding/3.1 - Grounding.md",
+    "3. The Grounds for Grounding/3.2 - Objectives of grounding.md",
+    "3. The Grounds for Grounding/figures/grounding_symbols.png",
+    "3. The Grounds for Grounding/figures",
+    "4. Fundamentals of Grounding Design/4.9 - Grounding strategy.md",
+    "14. Testing and Troubleshooting",
+    "13. Grounding on PCBs",
+    "12. Grounding of TPDs",
+    "11. Grounding of Wiring Circuits",
+    "10. The Earth Connection",
+    "4. Fundamentals of Grounding Design/4.8 - System grounding.md",
+    "4. Fundamentals of Grounding Design/4.7 - Equipment grounding.md",
+    "4. Fundamentals of Grounding Design/4.6 - Zoned grounding.md",
+    "4. Fundamentals of Grounding Design/4.5 - Ground loops.md",
+    "4. Fundamentals of Grounding Design/4.4 - Isolation.md",
+    "4. Fundamentals of Grounding Design/4.3 - Grounding trees.md",
+    "4. Fundamentals of Grounding Design/4.2 - Grounding schemes.md",
+    "4. Fundamentals of Grounding Design/4.1 - Ground-coupled interference.md",
+    "2. Fundamental Concepts/2.10 - Susceptibility of solid-state devices.md",
+    "2. Fundamental Concepts/2.8 - Modes of propagation.md",
+    "2. Fundamental Concepts/2.7 - Transmission lines.md",
+    "2. Fundamental Concepts/2.9 - Radiation.md",
+    "2. Fundamental Concepts/2.1 - Maxwell's equations.md",
+    "2. Fundamental Concepts/2.3 - Intrinsic inductance.md",
+    "2. Fundamental Concepts/2.4 - Non-ideal properties of components and interconnects.md",
+    "2. Fundamental Concepts/2.5 - Return path impedance.md",
+    "2. Fundamental Concepts/2.6 - Spectral content of signals.md",
+    "2. Fundamental Concepts/figures/radiation_sources.png",
+    "2. Fundamental Concepts/figures/tl_modes.png",
+    "2. Fundamental Concepts/2.2 - Boundary conditions.md",
+    "2. Fundamental Concepts/figures/heaviside_TL.png",
+    "2. Fundamental Concepts/figures/ringing_spectrum.png",
+    "2. Fundamental Concepts/figures/trapezoid_spectrum.png",
+    "2. Fundamental Concepts/figures/inductor_impedance.png",
+    "2. Fundamental Concepts/figures",
+    "2. Fundamental Concepts/figures/capacitor_impedance.png",
+    "5. Bonding Principles",
+    "4. Fundamentals of Grounding Design",
+    "2. Fundamental Concepts/Untitled.md",
+    "3. The Grounds for Grounding"
+  ]
+}
