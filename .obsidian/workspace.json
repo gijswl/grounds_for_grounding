@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "3. The Grounds for Grounding/3.2 - Objectives of grounding.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -129,7 +129,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -150,6 +151,8 @@
   "lastOpenFiles": [
     "3. The Grounds for Grounding/3.1 - Grounding.md",
     "3. The Grounds for Grounding/3.2 - Objectives of grounding.md",
+    "4. Fundamentals of Grounding Design/4.1 - Ground-coupled interference.md",
+    "3. The Grounds for Grounding/figures/safety_grounding.png",
     "3. The Grounds for Grounding/figures/grounding_symbols.png",
     "3. The Grounds for Grounding/figures",
     "4. Fundamentals of Grounding Design/4.9 - Grounding strategy.md",
@@ -165,7 +168,6 @@
     "4. Fundamentals of Grounding Design/4.4 - Isolation.md",
     "4. Fundamentals of Grounding Design/4.3 - Grounding trees.md",
     "4. Fundamentals of Grounding Design/4.2 - Grounding schemes.md",
-    "4. Fundamentals of Grounding Design/4.1 - Ground-coupled interference.md",
     "2. Fundamental Concepts/2.10 - Susceptibility of solid-state devices.md",
     "2. Fundamental Concepts/2.8 - Modes of propagation.md",
     "2. Fundamental Concepts/2.7 - Transmission lines.md",
