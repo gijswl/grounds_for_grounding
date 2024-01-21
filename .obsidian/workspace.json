@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "3. The Grounds for Grounding/3.2 - Objectives of grounding.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -149,8 +149,10 @@
   },
   "active": "ad84ae91478811dd",
   "lastOpenFiles": [
-    "3. The Grounds for Grounding/3.1 - Grounding.md",
+    "3. The Grounds for Grounding/figures/signal_grounding.png",
     "3. The Grounds for Grounding/3.2 - Objectives of grounding.md",
+    "3. The Grounds for Grounding/figures/emi_control.png",
+    "3. The Grounds for Grounding/3.1 - Grounding.md",
     "4. Fundamentals of Grounding Design/4.1 - Ground-coupled interference.md",
     "3. The Grounds for Grounding/figures/safety_grounding.png",
     "3. The Grounds for Grounding/figures/grounding_symbols.png",
@@ -185,7 +187,6 @@
     "2. Fundamental Concepts/figures/trapezoid_spectrum.png",
     "2. Fundamental Concepts/figures/inductor_impedance.png",
     "2. Fundamental Concepts/figures",
-    "2. Fundamental Concepts/figures/capacitor_impedance.png",
     "5. Bonding Principles",
     "4. Fundamentals of Grounding Design",
     "2. Fundamental Concepts/Untitled.md",
